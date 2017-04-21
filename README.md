@@ -11,7 +11,7 @@
 - git push
 
 
-### atom 装包
+### atom 装包命令
 > apm install [packagename]
 
 - emmet
