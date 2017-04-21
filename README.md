@@ -11,7 +11,9 @@
 - git push
 
 
-### atom packages
+### atom 装包
+> apm install [packagename]
+
 - emmet
 - open-in-browser
 - autocomplete-paths
